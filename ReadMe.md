@@ -11,3 +11,13 @@
 | common | type  | clash/mixed 类型为clash则为v2ray转clash                             |
 | common | api   | 后端地址                                                            |
 |        |       |                                                                     |
+
+## 下载链接：
+
+不加速链接
+
+`https://raw.githubusercontent.com/vveg26/SubAutoConv/main/sub/url1.yaml`
+
+加速链接：
+
+`https://cdn.jsdelivr.net/gh/vveg26/SubAutoConv@main/sub/url1.yaml`

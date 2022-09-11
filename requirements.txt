@@ -1,9 +1,1 @@
-altgraph==0.17.2
-certifi==2021.10.8
-charset-normalizer==2.0.10
-future==0.18.2
-idna==3.3
-lxml==4.9.1
-pefile==2022.5.30
 requests==2.27.1
-urllib3==1.26.8
